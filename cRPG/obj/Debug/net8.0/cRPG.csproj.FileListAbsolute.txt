@@ -1,0 +1,15 @@
+C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\AGame\cRPG-A01\cRPG\bin\Debug\net8.0\cRPG.exe
+C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\AGame\cRPG-A01\cRPG\bin\Debug\net8.0\cRPG.deps.json
+C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\AGame\cRPG-A01\cRPG\bin\Debug\net8.0\cRPG.runtimeconfig.json
+C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\AGame\cRPG-A01\cRPG\bin\Debug\net8.0\cRPG.dll
+C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\AGame\cRPG-A01\cRPG\bin\Debug\net8.0\cRPG.pdb
+C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\AGame\cRPG-A01\cRPG\obj\Debug\net8.0\cRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\AGame\cRPG-A01\cRPG\obj\Debug\net8.0\cRPG.AssemblyInfoInputs.cache
+C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\AGame\cRPG-A01\cRPG\obj\Debug\net8.0\cRPG.AssemblyInfo.cs
+C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\AGame\cRPG-A01\cRPG\obj\Debug\net8.0\cRPG.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\AGame\cRPG-A01\cRPG\obj\Debug\net8.0\cRPG.sourcelink.json
+C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\AGame\cRPG-A01\cRPG\obj\Debug\net8.0\cRPG.dll
+C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\AGame\cRPG-A01\cRPG\obj\Debug\net8.0\refint\cRPG.dll
+C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\AGame\cRPG-A01\cRPG\obj\Debug\net8.0\cRPG.pdb
+C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\AGame\cRPG-A01\cRPG\obj\Debug\net8.0\cRPG.genruntimeconfig.cache
+C:\Users\Fernando Morejon\Documents\PROGRAMS\VSCodeProjects\AGame\cRPG-A01\cRPG\obj\Debug\net8.0\ref\cRPG.dll
